@@ -7,7 +7,7 @@ namespace LineComaprison_0pps
         public static void Main(String[] args)
         {
             LineComparisonUC1 line1 = new LineComparisonUC1();
-            line1 = new LineComparisonUC1();
+            line1.Distance();
         }
 
     }
